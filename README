@@ -1,0 +1,47 @@
+Bien sûr, voici un exemple de fichier README pour ton projet de générateur de mots de passe sécurisés en Go. Tu peux le personnaliser en fonction des détails spécifiques de ton projet :
+
+```markdown
+# Générateur de Mots de Passe Sécurisés en Go
+
+Ce projet est un générateur de mots de passe sécurisés en Go. Il vous permet de générer des mots de passe aléatoires en respectant des critères de sécurité personnalisés.
+
+## Caractéristiques
+
+- Génère des mots de passe aléatoires.
+- Vous permet de spécifier la longueur du mot de passe (entre 4 et 40 caractères).
+- Inclut des caractères spéciaux, des lettres majuscules, des lettres minuscules et des chiffres dans les mots de passe générés.
+
+## Prérequis
+
+- Go (golang) installé sur votre système.
+
+## Utilisation
+
+1. Clonez ce référentiel sur votre machine :
+   ```
+   git clone https://github.com/maxime-louis14/generateur-mots-de-passe-go.git
+   ```
+
+2. Accédez au répertoire du projet :
+   ```
+   cd generateur-mots-de-passe-go
+   ```
+
+3. Exécutez le programme :
+   ```
+   go run main.go
+   ```
+
+4. Suivez les instructions pour spécifier la longueur du mot de passe souhaitée. Vous pouvez choisir une longueur entre 4 et 40 caractères.
+
+5. Le programme générera un mot de passe aléatoire conforme à vos critères et l'affichera.
+
+## Contribuer
+
+Les contributions à ce projet sont les bienvenues. Si vous souhaitez ajouter des fonctionnalités, corriger des bogues ou améliorer la documentation, n'hésitez pas à soumettre une demande de tirage (pull request).
+
+## Licence
+
+Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
+
+---
